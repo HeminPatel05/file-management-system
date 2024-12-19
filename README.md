@@ -23,7 +23,7 @@ The Automated File Management System is a Python-based application that helps or
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-repo/file-management-system.git
+git clone https://github.com/HeminPatel05/file-management-system.git
 ```
 
 2. Navigate to the project directory:
@@ -41,7 +41,10 @@ pip install -r requirements.txt
 ## Usage
 
 Run the script using the following command:
+
+```bash
 python main.py --path <directory_path> [--monitor] [--handle-duplicates <log|delete|move>]
+```
 
 ### Arguments
 
