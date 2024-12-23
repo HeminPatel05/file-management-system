@@ -104,4 +104,4 @@ Contributions are welcome! Please open an issue or submit a pull request on GitH
 ## Authors
 
 - Hemin Patel
-- GitHub: [https://github.com/HeminPatel18](https://github.com/HeminPatel18)
+- GitHub: [https://github.com/HeminPatel05](https://github.com/HeminPatel05)
